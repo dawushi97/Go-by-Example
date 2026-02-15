@@ -10,9 +10,9 @@ Source: https://gobyexample.com/
 - [x] 02. Values
 - [x] 03. Variables
 - [x] 04. Constants
-- [ ] 05. For
-- [ ] 06. If/Else
-- [ ] 07. Switch
+- [x] 05. For
+- [x] 06. If/Else
+- [x] 07. Switch (TODO: type switch / interface 示例待补)
 - [ ] 08. Arrays
 - [ ] 09. Slices
 - [ ] 10. Maps
