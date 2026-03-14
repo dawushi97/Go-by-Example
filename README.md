@@ -6,15 +6,15 @@ Source: https://gobyexample.com/
 
 ## Topics
 
-- [x] 01. Hello World
-- [x] 02. Values
-- [x] 03. Variables
-- [x] 04. Constants
-- [x] 05. For
-- [x] 06. If/Else
-- [x] 07. Switch (TODO: type switch / interface 示例待补)
-- [ ] 08. Arrays
-- [ ] 09. Slices
+- [x] 1.  Hello World
+- [x] 2.  Values
+- [x] 3.  Variables
+- [x] 4.  Constants
+- [x] 5.  For
+- [x] 6.  If/Else
+- [x] 7.  Switch (TODO: type switch / interface 示例待补)
+- [ ] 8.  Arrays
+- [ ] 9.  Slices
 - [ ] 10. Maps
 - [ ] 11. Functions
 - [ ] 12. Multiple Return Values
@@ -33,11 +33,11 @@ Source: https://gobyexample.com/
 - [ ] 25. Range over Iterators
 - [ ] 26. Errors
 - [ ] 27. Custom Errors
-- [ ] 28. Goroutines
-- [ ] 29. Channels
-- [ ] 30. Channel Buffering
-- [ ] 31. Channel Synchronization
-- [ ] 32. Channel Directions
+- [x] 28. Goroutines
+- [x] 29. Channels
+- [x] 30. Channel Buffering
+- [x] 31. Channel Synchronization
+- [x] 32. Channel Directions
 - [ ] 33. Select
 - [ ] 34. Timeouts
 - [ ] 35. Non-Blocking Channel Operations
