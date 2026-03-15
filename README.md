@@ -38,11 +38,11 @@ Source: https://gobyexample.com/
 - [x] 30. Channel Buffering
 - [x] 31. Channel Synchronization
 - [x] 32. Channel Directions
-- [ ] 33. Select
+- [x] 33. Select
 - [ ] 34. Timeouts
-- [ ] 35. Non-Blocking Channel Operations
-- [ ] 36. Closing Channels
-- [ ] 37. Range over Channels
+- [x] 35. Non-Blocking Channel Operations
+- [x] 36. Closing Channels
+- [x] 37. Range over Channels
 - [ ] 38. Timers
 - [ ] 39. Tickers
 - [ ] 40. Worker Pools
