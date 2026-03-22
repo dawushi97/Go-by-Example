@@ -13,9 +13,9 @@ Source: https://gobyexample.com/
 - [x] 5.  For
 - [x] 6.  If/Else
 - [x] 7.  Switch (TODO: type switch / interface 示例待补)
-- [ ] 8.  Arrays
-- [ ] 9.  Slices
-- [ ] 10. Maps
+- [x] 8.  Arrays
+- [x] 9.  Slices
+- [x] 10. Maps
 - [ ] 11. Functions
 - [ ] 12. Multiple Return Values
 - [ ] 13. Variadic Functions
@@ -39,7 +39,7 @@ Source: https://gobyexample.com/
 - [x] 31. Channel Synchronization
 - [x] 32. Channel Directions
 - [x] 33. Select
-- [ ] 34. Timeouts
+- [x] 34. Timeouts
 - [x] 35. Non-Blocking Channel Operations
 - [x] 36. Closing Channels
 - [x] 37. Range over Channels
