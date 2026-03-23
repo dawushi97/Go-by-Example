@@ -16,13 +16,13 @@ Source: https://gobyexample.com/
 - [x] 8.  Arrays
 - [x] 9.  Slices
 - [x] 10. Maps
-- [ ] 11. Functions
-- [ ] 12. Multiple Return Values
-- [ ] 13. Variadic Functions
-- [ ] 14. Closures
-- [ ] 15. Recursion
-- [ ] 16. Range over Built-in Types
-- [ ] 17. Pointers
+- [x] 11. Functions
+- [x] 12. Multiple Return Values
+- [x] 13. Variadic Functions
+- [x] 14. Closures
+- [x] 15. Recursion
+- [x] 16. Range over Built-in Types
+- [x] 17. Pointers
 - [ ] 18. Strings and Runes
 - [ ] 19. Structs
 - [ ] 20. Methods
