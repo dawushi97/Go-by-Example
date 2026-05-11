@@ -24,13 +24,13 @@ Source: https://gobyexample.com/
 - [x] 16. Range over Built-in Types
 - [x] 17. Pointers
 - [ ] 18. Strings and Runes
-- [ ] 19. Structs
-- [ ] 20. Methods
-- [ ] 21. Interfaces
-- [ ] 22. Enums
-- [ ] 23. Struct Embedding
-- [ ] 24. Generics
-- [ ] 25. Range over Iterators
+- [x] 19. Structs
+- [x] 20. Methods
+- [x] 21. Interfaces
+- [x] 22. Enums
+- [x] 23. Struct Embedding
+- [x] 24. Generics
+- [x] 25. Range over Iterators
 - [ ] 26. Errors
 - [ ] 27. Custom Errors
 - [x] 28. Goroutines
