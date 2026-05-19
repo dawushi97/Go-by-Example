@@ -31,8 +31,8 @@ Source: https://gobyexample.com/
 - [x] 23. Struct Embedding
 - [x] 24. Generics
 - [x] 25. Range over Iterators
-- [ ] 26. Errors
-- [ ] 27. Custom Errors
+- [x] 26. Errors
+- [ ] 27. Custom Errors (骨架已搭)
 - [x] 28. Goroutines
 - [x] 29. Channels
 - [x] 30. Channel Buffering
@@ -43,18 +43,18 @@ Source: https://gobyexample.com/
 - [x] 35. Non-Blocking Channel Operations
 - [x] 36. Closing Channels
 - [x] 37. Range over Channels
-- [ ] 38. Timers
-- [ ] 39. Tickers
-- [ ] 40. Worker Pools
-- [ ] 41. WaitGroups
+- [x] 38. Timers
+- [x] 39. Tickers
+- [ ] 40. Worker Pools (骨架已搭)
+- [ ] 41. WaitGroups (骨架已搭)
 - [ ] 42. Rate Limiting
 - [ ] 43. Atomic Counters
 - [ ] 44. Mutexes
 - [ ] 45. Stateful Goroutines
 - [ ] 46. Sorting
 - [ ] 47. Sorting by Functions
-- [ ] 48. Panic
-- [ ] 49. Defer
+- [x] 48. Panic
+- [x] 49. Defer
 - [ ] 50. Recover
 - [ ] 51. String Functions
 - [ ] 52. String Formatting
@@ -62,9 +62,9 @@ Source: https://gobyexample.com/
 - [ ] 54. Regular Expressions
 - [ ] 55. JSON
 - [ ] 56. XML
-- [ ] 57. Time
-- [ ] 58. Epoch
-- [ ] 59. Time Formatting / Parsing
+- [x] 57. Time
+- [x] 58. Epoch
+- [x] 59. Time Formatting / Parsing
 - [ ] 60. Random Numbers
 - [ ] 61. Number Parsing
 - [ ] 62. URL Parsing
@@ -83,8 +83,8 @@ Source: https://gobyexample.com/
 - [ ] 75. Command-Line Subcommands
 - [ ] 76. Environment Variables
 - [ ] 77. Logging
-- [ ] 78. HTTP Client
-- [ ] 79. HTTP Server
+- [x] 78. HTTP Client
+- [x] 79. HTTP Server
 - [ ] 80. TCP Server
 - [ ] 81. Context
 - [ ] 82. Spawning Processes
