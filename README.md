@@ -32,7 +32,7 @@ Source: https://gobyexample.com/
 - [x] 24. Generics
 - [x] 25. Range over Iterators
 - [x] 26. Errors
-- [ ] 27. Custom Errors (骨架已搭)
+- [x] 27. Custom Errors
 - [x] 28. Goroutines
 - [x] 29. Channels
 - [x] 30. Channel Buffering
@@ -45,17 +45,17 @@ Source: https://gobyexample.com/
 - [x] 37. Range over Channels
 - [x] 38. Timers
 - [x] 39. Tickers
-- [ ] 40. Worker Pools (骨架已搭)
-- [ ] 41. WaitGroups (骨架已搭)
-- [ ] 42. Rate Limiting
-- [ ] 43. Atomic Counters
-- [ ] 44. Mutexes
-- [ ] 45. Stateful Goroutines
+- [x] 40. Worker Pools
+- [x] 41. WaitGroups
+- [x] 42. Rate Limiting
+- [x] 43. Atomic Counters
+- [x] 44. Mutexes
+- [x] 45. Stateful Goroutines
 - [ ] 46. Sorting
 - [ ] 47. Sorting by Functions
 - [x] 48. Panic
 - [x] 49. Defer
-- [ ] 50. Recover
+- [x] 50. Recover
 - [ ] 51. String Functions
 - [ ] 52. String Formatting
 - [ ] 53. Text Templates
