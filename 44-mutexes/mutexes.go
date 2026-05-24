@@ -24,7 +24,6 @@ func main() {
 		for range n {
 			c.inc(name)
 		}
-		wg.Done()
 	}
 	wg.Go(func() {
 		doIncrement("a", 10000)

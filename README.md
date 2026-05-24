@@ -86,7 +86,7 @@ Source: https://gobyexample.com/
 - [x] 78. HTTP Client
 - [x] 79. HTTP Server
 - [ ] 80. TCP Server
-- [ ] 81. Context
+- [x] 81. Context
 - [ ] 82. Spawning Processes
 - [ ] 83. Exec'ing Processes
 - [ ] 84. Signals
